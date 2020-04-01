@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{5194F20E-3135-4D2B-8581-8489F34BCBB6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="REST_Tests/Features/POST.feature">
+    <Files>
+      <File FileName="REST_Tests/Features/POST.feature" Line="1" Column="1" />
+      <File FileName="REST_Tests/StepsDefinition/CommonSteps.cs" Line="46" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="csssrTask" expanded="True">
+            <Node name="REST_Tests" expanded="True">
+              <Node name="Features" expanded="True">
+                <Node name="POST.feature" selected="True" />
+              </Node>
+              <Node name="StepsDefinition" expanded="True">
+                <Node name="POST_Query" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="csssrTask" expanded="True">
+            <Node name="REST_Tests" expanded="True">
+              <Node name="REST_Tests" expanded="True">
+                <Node name="Features" expanded="True">
+                  <Node name="POSTTestsFeature" expanded="True">
+                    <Node name="Add new superhero" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Task1/REST_Tests.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.REST__Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mikhail.kukushkin/Projects/TRARoboticsTasks/REST_Tests/StepsDefinition/CommonSteps.cs" relfile="REST_Tests/StepsDefinition/CommonSteps.cs" line="58" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

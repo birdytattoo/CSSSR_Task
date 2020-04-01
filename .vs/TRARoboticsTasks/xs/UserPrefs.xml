@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{5194F20E-3135-4D2B-8581-8489F34BCBB6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task1/Features/GEt.feature">
+    <Files>
+      <File FileName="Task1/Features/GEt.feature" Line="11" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="TRARoboticsTasks" expanded="True">
+            <Node name="Task1" expanded="True">
+              <Node name="API" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+              <Node name="StepsDefinition" expanded="True">
+                <Node name="CommonSteps.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Task2" expanded="True">
+              <Node name="Contexts" expanded="True" />
+              <Node name="StepsDefinition" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mikhail.kukushkin/Projects/TRARoboticsTasks/Task1/API/Bears.cs" relfile="Task1/API/Bears.cs" line="24" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
